@@ -230,7 +230,8 @@ This simulates all 5 equipment units sending sensor data every 5 seconds.
 | IoT Core | 500k messages/month (12 months) | Demo uses minimal messages |
 | Cognito | 50,000 MAU | Always free |
 | Lambda | 1M requests/month | Always free |
-| Amplify Hosting | 15GB bandwidth/month (12 months) | Minimal for demo |
+| S3 | 5GB storage, 20K GET requests/month | Minimal for demo |
+| CloudFront | 1TB data transfer/month (12 months) | Minimal for demo |
 
 ## Frontend Features (MVP)
 
