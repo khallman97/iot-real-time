@@ -261,4 +261,4 @@ This simulates all 5 equipment units sending sensor data every 5 seconds.
 **URL:** https://deufddidqolmw.cloudfront.net/
 
 **Account:** demo@example.com
-
+**Password:** TempPass123!
